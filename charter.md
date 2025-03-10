@@ -2,45 +2,45 @@
 ### Why Do We Exist?
 
 
-#### Practitioner Excellence 
+#### 1. Practitioner Excellence 
 
 Establish and maintain best practices for engineering processes, tools, and methodologies.
 
 ---
 
-#### Business Alignment 
+#### 2. Business Alignment 
 Ensure engineering initiatives and priorities support the Company's overall business and long-term vision by communicating closely and clearly with the exec team.
 
 ---
 
-#### Professional Development
+#### 3. Professional Development
 Develop top engineering talent through mentorship, clear goal-setting, regular evaluation and educational programs.
 
 --- 
 
-#### Talent and Team
+#### 4. Talent and Team
 Attract and retain top talent, both full time and contract. Maintain a high-performing, unified and motivated team.
 
 ---
 
-#### Security and Risk Assessment
+#### 5. Security and Risk Assessment
 Continuously monitor and advocate for secure coding practices. Educate org-wide on the importance of operational security (OpSec). Identify and mitigate risks related to projects, timelines, and resource allocation.
 
 
 --- 
 
-#### Stay Ahead 
-Identify emerging technologies with potential value to the business. Foster a culture of experimentation and continuous learning.
+#### 6. Stay Ahead 
+Identify emerging technologies with potential value to the business and its clients. Foster a culture of experimentation and continuous learning.
 
 ---
 
-#### Information Access
+#### 7. Information Access
 Make standards and procedures easy for all to access and understand.
 
 
 --- 
 
-#### Inter-Group Collaboration
+#### 8. Inter-Group Collaboration
 Act as a bridge between engineering and other departments (e.g., sales, design, marketing) to ensure seamless collaboration and communication.
 
 ---
