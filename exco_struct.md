@@ -13,12 +13,12 @@ graph TD;
     end
 
     CEO --> EngExCo
-    EngExCo --> EngKR
-    EngExCo --> EngNonKR
+    EngExCo --> Eng-KR
+    EngExCo --> Eng-ExKR
     
-    subgraph EngKR
+    subgraph Eng-KR
     end
-    subgraph EngNonKR
+    subgraph Eng-ExKR
     end
 
     %%DD[Director of Design]
