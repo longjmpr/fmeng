@@ -12,6 +12,7 @@ graph TD;
         CTO["Stephan"]
         Dir_Eng["Hyejin"]
     end
+    %% CRO -.- EngExCo
 
     CEO --> EngExCo
     EngExCo --> Eng-KR
