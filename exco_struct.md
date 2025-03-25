@@ -15,11 +15,16 @@ graph TD;
     CEO --> EngExCo
     EngExCo --> Eng-KR
     EngExCo --> Eng-ExKR
-    
-    subgraph Eng-KR
+
+    %% This is all Korean-speaking engineers
+    subgraph Eng-KR [Eng-KR:
+Prefer communicating in Korean]
     end
-    subgraph Eng-ExKR
+    %% This is all engineers based outside of Korea
+    subgraph Eng-ExKR [Eng-ExKR:
+Those who do not speak Korean]
     end
+
 
     %%DD[Director of Design]
     %%ADD["Assc Dir Design"]
