@@ -4,7 +4,7 @@ graph TD;
     COO
 
     CEO --> COO
-    CEO --> CRO["Chief Revenue Officer"]
+    CEO --> CRO["CRO"]
 
     subgraph EngExCo
         direction TB
