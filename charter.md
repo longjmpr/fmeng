@@ -2,23 +2,18 @@
 ### Why Do We Exist?
 
 
-#### 1. Practitioner Excellence 
+#### 1. Practitioner Excellence & Development
 
-Establish and maintain best practices for engineering processes, tools, and methodologies.
+Establish and maintain best practices for engineering processes, tools, and methodologies.  Develop top engineering talent through mentorship, clear goal-setting, regular evaluation and educational programs.
 
 ---
 
 #### 2. Business Alignment 
 Ensure engineering initiatives and priorities support the Company's overall business and long-term vision by communicating closely and clearly with the exec team.
 
----
-
-#### 3. Professional Development
-Develop top engineering talent through mentorship, clear goal-setting, regular evaluation and educational programs.
-
 --- 
 
-#### 4. Talent and Team
+#### 4. Recruit and Retain Talent
 Attract and retain top talent, both full time and contract. Maintain a high-performing, unified and motivated team.
 
 ---
