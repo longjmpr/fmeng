@@ -12,3 +12,9 @@ for specific skill areas (e.g., AI, backend, DevOps).
 
 CEO Expectations: clearly document time commitments, term limits, and rotation policies (eg how often do we rotate the Chair?)
 
+Schedule
+
+| Period | Chair | Mentorship Lead | Process Improvement |
+| ---- | ---- | ---- | ---- |
+| April - August 2025 | Yang | Olenin | Park | 
+
