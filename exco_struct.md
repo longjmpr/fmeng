@@ -8,9 +8,9 @@ graph TD;
 
     subgraph EngExCo
         direction TB
-        VP_Eng["Slava"]
-        CTO["Stephan"]
-        Dir_Eng["Hyejin"]
+        VP_Eng["SO"]
+        CTO["SJP"]
+        Dir_Eng["YHJ"]
     end
     %% CRO -.- EngExCo
 
@@ -19,12 +19,12 @@ graph TD;
     EngExCo --> Eng-ExKR
 
     %% This is all Korean-speaking engineers
-    subgraph Eng-KR [Eng-KR:
-Prefer communicating in Korean]
+    subgraph Eng-KR [Eng-KR:ar
+Primary communication in Korean]
     end
     %% This is all engineers based outside of Korea
     subgraph Eng-ExKR [Eng-ExKR:
-Those who do not speak Korean]
+English communication]
     end
 
 
